@@ -27,7 +27,7 @@ Este plano de estudo é composto por diversos módulos que, juntos, totalizam **
 Você pode acompanhar o meu progresso no [Microsoft Learn](https://learn.microsoft.com/pt-br/collections/40x5uxtwjp1y8w?username=JacivaldoCarvalho-3412&section=activity&sharingId=5B156791DE42C615).
 
 
-## 💡 **Por que este plano é relevante para recrutadores e profissionais da área?**
+## 💡 **Por que este plano é relevante?**
 
 - **Adoção de Nuvem com Azure:** O plano cobre as principais tecnologias e ferramentas de nuvem do Azure, preparando-me para atuar em ambientes altamente escaláveis e seguros.
 - **Práticas de DevOps e Automação:** Entendimento profundo das metodologias e práticas do DevOps, utilizando ferramentas como GitHub Actions e integração contínua.
