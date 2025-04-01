@@ -24,7 +24,7 @@ Este plano de estudo é composto por diversos módulos que, juntos, totalizam **
 
 ## 🔗 **Acompanhamento do Progresso:**
 
-Você pode acompanhar o meu progresso no [Microsoft Learn](https://learn.microsoft.com/pt-br/collections/40x5uxtwjp1y8w?username=JacivaldoCarvalho-3412&section=activity&sharingId=5B156791DE42C615).
+Você pode acompanhar o meu progresso no [Roteiro de aprendizado](/roteiro_de_aprendizagem_cloud_e_devops.md).
 
 
 ## 💡 **Por que este plano é relevante?**
