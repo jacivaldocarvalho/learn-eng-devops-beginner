@@ -3,7 +3,6 @@
 ## 🚀 **Objetivo:**
 Este repositório tem como objetivo documentar e acompanhar o progresso do meu plano de estudo para me tornar um **Engenheiro DevOps completo**, utilizando a plataforma de treinamento **Microsoft Learn**. O plano é projetado para cobrir uma ampla gama de habilidades essenciais, desde conceitos de nuvem, governança e segurança no Azure, até práticas avançadas de **DevOps**, **automação** e **orquestração de contêineres com Kubernetes**.
 
----
 
 ## 🎯 **Conteúdo do Plano de Estudo**
 
@@ -17,19 +16,16 @@ Este repositório tem como objetivo documentar e acompanhar o progresso do meu p
 - **Monitoramento e Observabilidade:** Implementação de monitoramento eficiente com o Kusto Query Language (KQL) e análise de dados de monitoramento.
 - **Engenharia de Confiabilidade de Sites (SRE):** Criar uma estratégia de confiabilidade e melhorar a instrumentação de aplicações no ambiente de produção.
 
----
 
 ## 🕒 **Duração Total Estimada: 124h**
 
 Este plano de estudo é composto por diversos módulos que, juntos, totalizam **124h** de treinamento prático e teórico. A ideia é aprender e aplicar os conhecimentos adquiridos em cada etapa, garantindo uma sólida compreensão das ferramentas e práticas de um Engenheiro DevOps.
 
----
 
 ## 🔗 **Acompanhamento do Progresso:**
 
 Você pode acompanhar o meu progresso no [Microsoft Learn](https://learn.microsoft.com/pt-br/collections/40x5uxtwjp1y8w?username=JacivaldoCarvalho-3412&section=activity&sharingId=5B156791DE42C615).
 
----
 
 ## 💡 **Por que este plano é relevante para recrutadores e profissionais da área?**
 
@@ -39,7 +35,6 @@ Você pode acompanhar o meu progresso no [Microsoft Learn](https://learn.microso
 - **Kubernetes e Contêineres:** Competências em orquestração de contêineres, uma habilidade essencial para a infraestrutura moderna e desenvolvimento de aplicações escaláveis.
 - **SRE (Site Reliability Engineering):** Desenvolvimento de uma mentalidade de confiabilidade de sistemas, essencial para garantir a operação contínua de sistemas críticos.
 
----
 
 ## 🛠️ **Ferramentas e Tecnologias Usadas:**
 - **Microsoft Azure:** Plataforma de nuvem para hospedagem e gerenciamento de recursos.
@@ -49,7 +44,6 @@ Você pode acompanhar o meu progresso no [Microsoft Learn](https://learn.microso
 - **GitHub Actions:** Ferramenta para automação de integração contínua e entrega contínua (CI/CD).
 - **Kusto Query Language (KQL):** Linguagem para análise de dados em Azure Monitor.
 
----
 
 ## 📈 **Progresso Atual**
 
@@ -59,13 +53,11 @@ Aqui você pode acompanhar o progresso do treinamento e as metas alcançadas em 
 - **Total de módulos concluídos:** 0%
 - **Total de horas estudadas:** 0 horas
 
----
 
 ## 🎓 **Certificados Obtidos:**
 
 Ao concluir cada módulo, buscarei a certificação e a documentação de conclusão diretamente na plataforma Microsoft Learn. Estes certificados podem ser adicionados ao meu portfólio de habilidades para apresentar aos recrutadores e profissionais do setor.
 
----
 
 ## 📝 **Notas Finais:**
 
@@ -73,7 +65,6 @@ Este plano de estudo é uma oportunidade de transformar meus conhecimentos em ha
 
 **Acompanhe o progresso e entre em contato para possíveis colaborações ou oportunidades de trabalho!**
 
----
 
 ## 💬 **Contato**
 
