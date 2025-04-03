@@ -5,9 +5,6 @@
 - [Automação de Criação e Configuração de Máquina Virtual no Azure com Nginx Usando Script Bash](#automação-de-criação-e-configuração-de-máquina-virtual-no-azure-com-nginx-usando-script-bash)
   - [Índice](#índice)
   - [Introdução](#introdução)
-- [README: Automação de Criação e Configuração de Máquina Virtual no Azure com Nginx Usando Script Bash](#readme-automação-de-criação-e-configuração-de-máquina-virtual-no-azure-com-nginx-usando-script-bash)
-  - [Índice](#índice-1)
-  - [Introdução](#introdução-1)
   - [Objetivo](#objetivo)
   - [Estrutura do Script](#estrutura-do-script)
     - [1. Definição de Variáveis](#1-definição-de-variáveis)
@@ -41,30 +38,6 @@ Neste exercício, o script automatiza a criação da VM, instalação do Nginx, 
 
 **"Este artigo foi desenvolvido com base nas tarefas propostas nos exercícios da plataforma Microsoft Learn, disponível em: [Criar uma máquina virtual do Azure](https://learn.microsoft.com/pt-br/training/modules/describe-azure-compute-networking-services/3-exercise-create-azure-virtual-machine.)" e [Configurar o acesso à rede](https://learn.microsoft.com/pt-br/training/modules/describe-azure-compute-networking-services/9-exercise-configure-network-access)**
 
-# README: Automação de Criação e Configuração de Máquina Virtual no Azure com Nginx Usando Script Bash
-
-## Índice
-
-1. [Introdução](#introdução)
-2. [Objetivo](#objetivo)
-3. [Estrutura do Script](#estrutura-do-script)
-   1. [Definição de Variáveis](#definição-de-variáveis)
-   2. [Criação da Máquina Virtual](#criação-da-máquina-virtual)
-   3. [Instalação do Nginx](#instalação-do-nginx)
-   4. [Configuração de Regras de Segurança](#configuração-de-regras-de-segurança)
-   5. [Verificação do Servidor Web](#verificação-do-servidor-web)
-4. [Execução do Script](#execução-do-script)
-5. [Insights sobre Automação e Bash](#insights-sobre-automação-e-bash)
-6. [Conclusão](#conclusão)
-7. [Referências](#referências)
-
----
-
-## Introdução
-
-A automação de processos na nuvem tem se tornado uma prática cada vez mais necessária para melhorar a eficiência, reduzir erros humanos e acelerar o provisionamento de infraestrutura. Este artigo apresenta uma solução de automação para criação de uma máquina virtual (VM) no **Azure**, instalação do servidor web **Nginx** e configuração das regras de segurança de rede, tudo isso utilizando um **script Bash**.
-
-Neste exercício, o script automatiza a criação da VM, instalação do Nginx, configuração do Grupo de Segurança de Rede (NSG) e realiza testes de conectividade HTTP, utilizando a **Azure CLI**. A ideia principal é demonstrar como um script pode facilitar a gestão de recursos na nuvem de forma rápida e eficiente.
 
 ## Objetivo
 

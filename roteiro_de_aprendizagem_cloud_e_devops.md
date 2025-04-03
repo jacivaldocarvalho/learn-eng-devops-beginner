@@ -11,7 +11,7 @@
 
 - **Conceitos Básicos do Microsoft Azure: Arquitetura e Serviços do Azure**  
   Arquitetura e serviços no Microsoft Azure (4 módulos, 3 h 25 min)  
-  **Progresso**: [______]
+  **Progresso**: [✅]
 
 
 ## **GitHub e Automação 🔧**

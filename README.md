@@ -17,9 +17,9 @@ Este repositório tem como objetivo documentar e acompanhar o progresso do meu p
 - **Engenharia de Confiabilidade de Sites (SRE):** Criar uma estratégia de confiabilidade e melhorar a instrumentação de aplicações no ambiente de produção.
 
 
-## 🕒 **Duração Total Estimada: 124h**
+## 🕒 **Duração Total Estimada: 118h**
 
-Este plano de estudo é composto por diversos módulos que, juntos, totalizam **124h** de treinamento prático e teórico. A ideia é aprender e aplicar os conhecimentos adquiridos em cada etapa, garantindo uma sólida compreensão das ferramentas e práticas de um Engenheiro DevOps.
+Este plano de estudo é composto por diversos módulos que, juntos, totalizam **118h** de treinamento prático e teórico. A ideia é aprender e aplicar os conhecimentos adquiridos em cada etapa, garantindo uma sólida compreensão das ferramentas e práticas de um Engenheiro DevOps.
 
 
 ## 🔗 **Acompanhamento do Progresso:**
@@ -50,8 +50,8 @@ Você pode acompanhar o meu progresso no [Roteiro de aprendizado](/roteiro_de_ap
 Aqui você pode acompanhar o progresso do treinamento e as metas alcançadas em cada módulo, garantindo total transparência sobre o desenvolvimento das competências técnicas.
 
 ### **Status:**
-- **Total de módulos concluídos:** 0%
-- **Total de horas estudadas:** 0 horas
+- **Total de módulos concluídos:** 4,35%
+- **Total de horas estudadas:** 5,15h
 
 
 ## 🎓 **Certificados Obtidos:**
