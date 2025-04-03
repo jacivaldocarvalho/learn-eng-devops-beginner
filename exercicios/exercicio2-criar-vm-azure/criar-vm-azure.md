@@ -1,8 +1,8 @@
-# Automação de Criação e Configuração de Máquina Virtual no Azure com Nginx Usando Script Bash
+# Automação para Criação e Configuração de Máquina Virtual no Azure com Nginx Usando Script Bash
 
 ## Índice
 
-- [Automação de Criação e Configuração de Máquina Virtual no Azure com Nginx Usando Script Bash](#automação-de-criação-e-configuração-de-máquina-virtual-no-azure-com-nginx-usando-script-bash)
+- [Automação para Criação e Configuração de Máquina Virtual no Azure com Nginx Usando Script Bash](#automação-para-criação-e-configuração-de-máquina-virtual-no-azure-com-nginx-usando-script-bash)
   - [Índice](#índice)
   - [Introdução](#introdução)
   - [Objetivo](#objetivo)
