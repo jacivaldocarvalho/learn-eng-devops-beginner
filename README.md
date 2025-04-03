@@ -24,7 +24,7 @@ Este plano de estudo é composto por diversos módulos que, juntos, totalizam **
 
 ## 🔗 **Acompanhamento do Progresso:**
 
-Você pode acompanhar o meu progresso no [Roteiro de aprendizado](/roteiro_de_aprendizagem_cloud_e_devops.md).
+Você pode acompanhar o meu progresso no [Roteiro de aprendizado](/roteiro_de_aprendizagem_cloud_e_devops.md) ou no [Learn Microsof](https://learn.microsoft.com/pt-br/users/jacivaldocarvalho-3412/).
 
 
 ## 💡 **Por que este plano é relevante?**

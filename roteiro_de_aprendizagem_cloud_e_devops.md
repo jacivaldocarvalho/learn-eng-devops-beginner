@@ -3,22 +3,14 @@
 ## **Fundamentos do Azure e Governança 🌐**
 - **Princípios Básicos do Microsoft Azure**  
   Conceitos essenciais de nuvem no Microsoft Azure (3 módulos, 52 min)  
-  **Progresso**: [______]
+  **Progresso**: [✅]
 
 - **Conceitos Básicos do Microsoft Azure: Gerenciamento e Governança do Azure**  
   Gerenciamento e governança no Azure (4 módulos, 1 h 52 min)  
-  **Progresso**: [______]
+  **Progresso**: [✅]
 
 - **Conceitos Básicos do Microsoft Azure: Arquitetura e Serviços do Azure**  
   Arquitetura e serviços no Microsoft Azure (4 módulos, 3 h 25 min)  
-  **Progresso**: [______]
-
-- **Acelere a Adoção da Nuvem com o Cloud Adoption Framework para Azure**  
-  Framework de adoção da nuvem para acelerar o processo no Azure (8 módulos, 9 h 15 min)  
-  **Progresso**: [______]
-
-- **Introdução ao Java no Azure**  
-  Desenvolvimento de aplicativos Java no Azure (9 módulos, 5 h 22 min)  
   **Progresso**: [______]
 
 
@@ -57,10 +49,6 @@
 ## **DevOps & Automação ⚙️**
 - **Fundamentos do DevOps: Princípios e Práticas Fundamentais**  
   Introdução aos princípios e práticas fundamentais do DevOps (5 módulos, 4 h 11 min)  
-  **Progresso**: [______]
-
-- **Introduza o DevOps Dojo: Crie Eficiências que Dão Suporte à Sua Empresa**  
-  Aplicação do DevOps para melhorar a eficiência organizacional (6 módulos, 2 h)  
   **Progresso**: [______]
 
 
@@ -105,4 +93,16 @@
 
 - **Desenvolver uma Estratégia de Instrumentação**  
   Desenvolvimento de estratégias de instrumentação para monitoramento e análise de performance (8 módulos, 7 h 11 min)  
+  **Progresso**: [______]
+
+- **Acelere a Adoção da Nuvem com o Cloud Adoption Framework para Azure**  
+  Framework de adoção da nuvem para acelerar o processo no Azure (8 módulos, 9 h 15 min)  
+  **Progresso**: [______]
+
+- **Introdução ao Java no Azure**  
+  Desenvolvimento de aplicativos Java no Azure (9 módulos, 5 h 22 min)  
+  **Progresso**: [______]
+
+  - **Introduza o DevOps Dojo: Crie Eficiências que Dão Suporte à Sua Empresa**  
+  Aplicação do DevOps para melhorar a eficiência organizacional (6 módulos, 2 h)  
   **Progresso**: [______]
